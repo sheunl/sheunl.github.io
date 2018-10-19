@@ -1,0 +1,8 @@
+//from header
+<header><a href="#"><img class="menu" src="img/logo.png" width="70px" height="auto"></a><ul class="menu"><li>Product</li><li>Services</li><li class="blog-menu">Blog</li><li>Portfolio</li></ul></header>
+    <p>The new One</p>
+
+//from style sheet
+.blog-menu:hover{
+            background-color: black;
+}

@@ -1,0 +1,49 @@
+
+body{
+    background:#bbb;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+/*
+.menu, .menu li{
+    display: inline;
+}
+
+.menu li{
+    margin-left: 10%;
+}
+
+*/
+
+header.using-flex {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.menu { display: flex;
+    justify-items: center;
+    align-items: center;
+    list-style: none; }
+
+.menu li { margin-left:40%;
+            font-size: 20px;
+            font-weight: 700; }
+
+.blog-menu { background-color: crimson;
+            padding: 7px 20px;
+            border-radius: 5px;
+            }
+
+.blog-menu:hover a{
+            color: white;
+            transition: color 0.7s linear 0.1s;
+}
+
+
+
+header a{color: black;}            
+a { color: crimson;
+    text-decoration: none;}
+a:hover { color:brown; }
