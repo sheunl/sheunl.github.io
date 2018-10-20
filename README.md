@@ -1,2 +1,2 @@
 # thetechtitan.github.io
-My simple site
+A simple site to show case my work.
