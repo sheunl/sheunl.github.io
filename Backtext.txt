@@ -6,3 +6,17 @@
 .blog-menu:hover{
             background-color: black;
 }
+
+//3:46 style sheet
+
+.menu { display: flex;
+    justify-items: center;
+    align-items: center;
+    list-style: none; }
+
+header.using-flex {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 5px 10px;
+}

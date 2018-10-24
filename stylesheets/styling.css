@@ -1,31 +1,9 @@
 
-body{
+body#body-m{
     background:#bbb;
     font-family: 'Courier New', Courier, monospace;
-    
+    background-image:  url("../img/circuit.jpg");
 }
-
-/*
-.menu, .menu li{
-    display: inline;
-}
-
-.menu li{
-    margin-left: 10%;
-}
-
-*/
-
-header.using-flex {
-    display: flex;
-    justify-items: center;
-    align-items: center;
-}
-
-.menu { display: flex;
-    justify-items: center;
-    align-items: center;
-    list-style: none; }
 
 .menu li { margin-left:40%;
             font-size: 20px;
@@ -40,19 +18,26 @@ header.using-flex {
 }
 
 .blog-menu:hover a{
-            color: white;
+            color: white !important;
             transition: color 0.5s linear;
 }
 
 
 
 
-header a{color: black;}            
-a { color: crimson;
-    text-decoration: none;}
-a:hover { color:brown; }
+.menu a{color: black !important;}            
+a { color: crimson !important;
+    text-decoration: none !important;}
+a:hover { color:brown !important; }
 
 .center-logo{
     margin: 100px auto;
     display: block;
 }
+
+@media screen and (max-width: 991px){
+    .menu li { margin-left: 0;
+        margin-bottom: 15px; }
+}
+
+#main { }
