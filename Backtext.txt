@@ -20,3 +20,9 @@ header.using-flex {
     align-items: center;
     padding: 5px 10px;
 }
+
+// To be used for image
+
+background-size: cover;
+    background-position: center, center;
+    background-image: linear-gradient(to top, rgba(51, 44, 55, 0), rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.9) 90%, rgba(0, 0, 0, 0.9)), url(/images/01-01-start-hero.jpg);
