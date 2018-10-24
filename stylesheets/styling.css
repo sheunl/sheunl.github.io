@@ -2,7 +2,6 @@
 body#body-m{
     background:#bbb;
     font-family: 'Courier New', Courier, monospace;
-    background-image:  url("../img/circuit.jpg");
 }
 
 .menu li { margin-left:40%;
