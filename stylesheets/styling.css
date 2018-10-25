@@ -54,7 +54,7 @@ a:hover { color:brown !important; }
         transition: color 0.5s linear;
 }
 
-    footer{display: none;}
+    
 }
 
 #main { }
@@ -83,3 +83,10 @@ footer{
     color: white;
 }
 
+.product {
+    font-size: 86px;
+    margin: 100px auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
