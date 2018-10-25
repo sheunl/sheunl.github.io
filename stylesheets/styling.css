@@ -25,7 +25,9 @@ body#body-m{
             transition: color 0.5s linear;
 }
 
-
+.spacer {
+    height: 200px;
+}
 
 
 .menu a{color: black !important;}            
@@ -41,6 +43,18 @@ a:hover { color:brown !important; }
 @media screen and (max-width: 991px){
     .menu li { margin-left: 0;
         margin-bottom: 15px; }
+    
+    .menu a{color: white !important;} 
+
+    .menu a:hover{ color: rgb(92, 9, 9) !important;
+        transition: color 0.5s linear;}
+
+    .blog-menu:hover a{
+        color: rgb(92, 9, 9) !important;
+        transition: color 0.5s linear;
+}
+
+    footer{display: none;}
 }
 
 #main { }
@@ -57,9 +71,6 @@ a:hover { color:brown !important; }
 #textfx .xfx {color:crimson;}
 
 footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
     background-color: #333;
     font-size: 20px;
@@ -71,4 +82,4 @@ footer{
     justify-content: center;
     color: white;
 }
-}
+
