@@ -74,6 +74,8 @@ a:hover { color:brown !important; }
         transform: translate(-108px,-6px);
     }
 
+    .image-svg.product p{font-size: 50px;}
+
 }
 
 #main { }
