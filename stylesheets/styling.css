@@ -36,8 +36,10 @@ a { color: crimson !important;
 a:hover { color:brown !important; }
 
 .center-logo{
-    margin: 100px auto 5px auto;
+    margin: 150px auto 5px auto;
     display: block;
+    padding: 0px 30px;
+    background-color: #090909;
 }
 
 @media screen and (max-width: 991px){
