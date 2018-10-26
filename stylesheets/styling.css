@@ -59,6 +59,23 @@ a:hover { color:brown !important; }
     
 }
 
+@media screen and (max-width: 500px){
+
+    .center-logo {
+        margin-top:10px;
+        width: 300px;
+        height: 340px;
+        }
+    .center-logo text{
+    font-size: 50px;
+    }
+
+    .center-logo text:nth-child(2){
+        transform: translate(-108px,-6px);
+    }
+
+}
+
 #main { }
 
 #textfx{
