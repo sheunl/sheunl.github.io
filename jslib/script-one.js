@@ -12,7 +12,12 @@ $(document).ready(
         smartBackspace: true, // this is a default
         loop: true
       });
-        
+      
+    //link active
+    $('.menu .nav-item').click(function(e){
+        $('.menu .nav-item').css("color", "black");
+        $(this).css("color", "#650101");
+    });
 
     }
 );
