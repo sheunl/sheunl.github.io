@@ -36,7 +36,7 @@ a { color: crimson !important;
 a:hover { color:brown !important; }
 
 .center-logo{
-    margin: 120px auto 5px auto;
+    margin: 70px auto 5px auto;
     display: block;
     padding: 0px 30px;
     background-color: #090909;
@@ -95,13 +95,18 @@ footer{
     width: 100%;
     background-color: #333;
     font-size: 20px;
-    height: 90px;
+    height: 130px;
     border-top: 2px #555 solid;
     align-items: center;
     text-align: center;
     display: flex !important;
     justify-content: center;
     color: white;
+    flex-direction: column;
+}
+
+footer p{
+    pa
 }
 
 .product {
@@ -150,3 +155,23 @@ h2.head-gal {
 }
 
 .list-services .left.col {border-right: 2px black solid;}
+
+.home-social {
+    text-align: center;
+    padding: 4px;
+    background-color: black;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.social-h {
+    margin: 0px;
+    font-size: 25px;
+}
+
+.social-h span {
+    margin-right: 20px;
+}
