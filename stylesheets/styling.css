@@ -78,7 +78,6 @@ a:hover { color:brown !important; }
 
 }
 
-#main { }
 
 #textfx{
     text-align: center;
@@ -105,9 +104,6 @@ footer{
     flex-direction: column;
 }
 
-footer p{
-    pa
-}
 
 .product {
     font-size: 86px;
@@ -174,4 +170,12 @@ p.social-h {
 
 .social-h span {
     margin-right: 20px;
+}
+
+.paddle{
+    color: white;
+     font-size: 20px;
+      background-color: black;
+      padding: 25px; 
+      margin-top: 10px;
 }
