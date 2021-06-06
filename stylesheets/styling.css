@@ -1,11 +1,7 @@
 
 body#body-m{
-    /*background:#bbb;*/
+    background:#efefef;
     font-family: 'Courier New', Courier, monospace;
-    background-size: cover;
-    background-position: center, center;
-    background-image: linear-gradient(to top, rgba(255,255,255,0) 75%, rgba(200,200,200,0.5)), url(../img/Blue-PCB-Mask.jpg);
-    background-repeat: no-repeat;
 }
 
 .menu li { margin-left:40%;
@@ -92,7 +88,7 @@ a:hover { color:brown !important; }
 
 footer{
     width: 100%;
-    background-color: #333;
+    background-color: #111;
     font-size: 20px;
     height: 130px;
     border-top: 2px #555 solid;
@@ -155,7 +151,7 @@ h2.head-gal {
 .home-social {
     text-align: center;
     padding: 4px;
-    background-color: black;
+    background-color: #222;
     width: 50%;
     margin: 0 auto;
     display: flex;
@@ -175,7 +171,20 @@ p.social-h {
 .paddle{
     color: white;
      font-size: 20px;
-      background-color: black;
+      background-color: #222;
       padding: 25px; 
       margin-top: 10px;
+}
+
+.home_intro {
+    padding: 40px;
+}
+
+.home-links{
+    list-style: none;
+}
+
+.home-links li {
+    padding-bottom: 10px;
+    font-size: 20px;
 }
