@@ -27,6 +27,9 @@ body#body-m{
 
 
 .menu a{color: black !important;}            
+
+.menu a:hover{ color:crimson !important;
+    transition: color 0.2s linear;}
 a { color: crimson !important;
     text-decoration: none !important;}
 a:hover { color:brown !important; }
@@ -42,14 +45,14 @@ a:hover { color:brown !important; }
     .menu li { margin-left: 0;
         margin-bottom: 15px; }
     
-    .menu a{color: white !important;} 
+    .menu a{color: black !important;} 
 
-    .menu a:hover{ color: rgb(92, 9, 9) !important;
-        transition: color 0.5s linear;}
+    .menu a:hover{ color:crimson !important;
+        transition: color 0.2s linear;}
 
     .blog-menu:hover a{
-        color: rgb(92, 9, 9) !important;
-        transition: color 0.5s linear;
+        color:crimson !important;
+        transition: color 0.2s linear;
 }
 
     
