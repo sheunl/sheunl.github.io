@@ -183,7 +183,9 @@ p.social-h {
 
 .home-links{
     list-style: none;
+    padding-left: 0px;
 }
+
 
 .home-links li {
     padding-bottom: 10px;
