@@ -194,3 +194,9 @@ p.social-h {
     padding-bottom: 10px;
     font-size: 20px;
 }
+
+h3.work {
+    background-color: #ed143dc7;
+    padding: 5px;
+    text-align: center;
+}
