@@ -201,3 +201,10 @@ h3.work {
     text-align: center;
     color: white;
 }
+
+h3.work a{
+    color: white !important;
+}
+h3.work a:hover{
+    color: darkblue !important;
+}
