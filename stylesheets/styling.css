@@ -106,8 +106,7 @@ footer{
     color: white;
     flex-direction: column;
 }
-footer *{color: black !important;}
-footer *:hover{color: white !important;}
+
 .product {
     font-size: 86px;
     margin: 100px auto;
