@@ -233,6 +233,25 @@ ol.the-list {
     text-align: left;
 }
 
+/**
 .mj-embedded-body {
-    padding: 5px 0px !important;
+    padding: 0 !important;
+    padding-bottom: 1px !important;
+}
+
+.mj-embedded.mj-vertical {
+    padding: 0 !important;
+    overflow: hidden !important;
+}
+**/
+.top-image img {
+    border-radius: 100%;
+    width: 100%;
+}
+
+.top-image{
+    width: 200px;
+    margin: 0 auto;
+    padding: 5px;
+    padding-top: 20px;
 }
