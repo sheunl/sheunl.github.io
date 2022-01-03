@@ -226,14 +226,16 @@ ol.the-list {
 }
 
 .column{
-    flex: 50%;
+    flex: 20%;
+    border: solid #ddd 1px;
+    border-width: 0px 0.5px 0 0;
 }
 
 .row h3 {
-    text-align: left;
+    text-align: center;
 }
 
-/**
+
 .mj-embedded-body {
     padding: 0 !important;
     padding-bottom: 1px !important;
@@ -243,7 +245,7 @@ ol.the-list {
     padding: 0 !important;
     overflow: hidden !important;
 }
-**/
+
 .top-image img {
     border-radius: 100%;
     width: 100%;
@@ -253,5 +255,25 @@ ol.the-list {
     width: 200px;
     margin: 0 auto;
     padding: 5px;
+    padding-top: 20px;
+}
+
+.c2a button {
+    background-color: #dc143c;
+    color: #efefef;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dc143c;
+
+}
+
+.c2a button:hover{
+    background-color:  #efefef;
+    color: #dc143c;
+    border: 1px solid #dc143c;
+}
+
+.ns {
+    background-color: #5555552b;
     padding-top: 20px;
 }
