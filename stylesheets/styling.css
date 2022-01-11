@@ -1,11 +1,21 @@
 @font-face {
     font-family: CFont;
-    src: url(Roboto-Thin.ttf);
+    src: url(Roboto-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: CTFont;
+    src: url(Roboto-Light.ttf);
   }
 
 body#body-m{
     background:#efefef;
-    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('/img/Artboard1.png');
+    font-family: 'CFont', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+*{
+    font-family: 'CFont' !important;
 }
 
 .menu li { margin-left:20px;
@@ -96,6 +106,7 @@ a:hover { color:brown !important; }
 footer{
     width: 100%;
     background-color: #555;
+    background-image: url(/img/Artboard2.png);
     font-size: 20px;
     height: 130px;
     border-top: 2px #555 solid;
@@ -183,7 +194,7 @@ p.social-h {
 }
 
 .home_intro {
-    padding: 40px;
+    /*padding: 40px;*/
     margin-bottom: 20px;
     text-align: center;
 }
@@ -218,7 +229,10 @@ div#main {
 }
 
 ol.the-list {
-    text-align: left;
+    padding: 0;
+    list-style: none;
+    margin: 0;
+    text-align: center
 }
 
 .row{
@@ -229,6 +243,7 @@ ol.the-list {
     flex: 20%;
     border: solid #ddd 1px;
     border-width: 0px 0.5px 0 0;
+    font-size: 20px;
 }
 
 .row h3 {
@@ -264,7 +279,7 @@ ol.the-list {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #dc143c;
-
+    cursor: pointer;
 }
 
 .c2a button:hover{
@@ -276,4 +291,16 @@ ol.the-list {
 .ns {
     background-color: #5555552b;
     padding-top: 20px;
+}
+
+.row.main-menu {
+    background-color: #efefefba;
+}
+
+.main-menu h4 {
+    font-family: 'CTFont' !important;
+}
+
+.the-list li {
+    padding: 5px 0px;
 }
