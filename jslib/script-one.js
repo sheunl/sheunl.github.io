@@ -3,7 +3,7 @@
 $(document).ready(
     function(){
         document.getElementById('mail-link').onclick = function(){
-            window.open('mailto:numinetech@hotmail.com', '_blank');
+            window.open('mailto:me@sheunlawani.com', '_blank');
           };
     }
 );

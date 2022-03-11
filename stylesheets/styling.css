@@ -9,8 +9,7 @@
   }
 
 body#body-m{
-    background:#efefef;
-    background-image: url('/img/Artboard1.png');
+    background:#fefefe;
     font-family: 'CFont', Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -105,11 +104,9 @@ a:hover { color:brown !important; }
 
 footer{
     width: 100%;
-    background-color: #555;
-    background-image: url(/img/Artboard2.png);
+    background-color: #777;
     font-size: 20px;
     height: 130px;
-    border-top: 2px #555 solid;
     align-items: center;
     text-align: center;
     display: flex !important;
@@ -202,12 +199,15 @@ p.social-h {
 .home-links{
     list-style: none;
     padding-left: 0px;
+    display: flex;
+    justify-content: center;
 }
 
 
 .home-links li {
     padding-bottom: 10px;
     font-size: 20px;
+    margin-right: 15px;
 }
 
 h3.work {
@@ -236,14 +236,15 @@ ol.the-list {
 }
 
 .row{
-    display: flex;
+    display: block !important;
 }
 
 .column{
-    flex: 20%;
-    border: solid #ddd 1px;
-    border-width: 0px 0.5px 0 0;
+    
     font-size: 20px;
+
+    margin-bottom: 15px;
+
 }
 
 .row h3 {
@@ -291,10 +292,11 @@ ol.the-list {
 .ns {
     background-color: #5555552b;
     padding-top: 20px;
+    border: 2px solid red;
 }
 
 .row.main-menu {
-    background-color: #efefefba;
+    background-color: #fefefe;
 }
 
 .main-menu h4 {
@@ -304,3 +306,26 @@ ol.the-list {
 .the-list li {
     padding: 5px 0px;
 }
+
+.column, .column ol{
+    text-align: left;
+}
+
+.top-menu {
+    background-color: crimson;
+  }
+
+  .top-menu-item {
+    display: flex;
+    list-style: none;
+  }
+
+  
+    .top-menu-item li {
+        color: #fff;
+        margin-right: 10px;
+      }
+  
+    .top-menu-item a:hover li{
+        color: #222;
+      }
