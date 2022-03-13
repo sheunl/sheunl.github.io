@@ -23,7 +23,7 @@
                     <h4>Learning</h4>
                     <ol class="the-list">
                         <li> <a href="https://www.youtube.com/channel/UCPZbE2f-LiBaeK9njDgqQmA" target="_blank">🔊 Tutorials</a>: Mainly Videos Tutorials and Presentations</li>
-                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>:Writing about Systems and Programming</li>
+                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>:Writing about Computer Systems and Networking</li>
                         <li> <a href="https://leetcode.com/Sheunl/" target="_blank" rel="noopener noreferrer">🔣 LeetCode</a>: Competitive Programming</li>
                     </ol>
                     </div>
@@ -32,7 +32,6 @@
                         <h4>Interests</h4>
                         <ol class="the-list">
                             <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: A Repository of opensource projects and contributions</li>
-                            <li> <a href="https://www.chess.com/member/sheunl" target="_blank" rel="noopener noreferrer">♟️ Chess</a>: Playing and Learning Strategy and tactic</li>
                             <li> <a href="https://www.duolingo.com/profile/sheunl" target="_blank" rel="noopener noreferrer">🌐 Languages:</a> Currently Learning on Duolingo, & Discord</li>
                         </ol>
                         </div>
