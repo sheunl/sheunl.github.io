@@ -23,7 +23,7 @@
                     <h4>Learning</h4>
                     <ol class="the-list">
                         <li> <a href="https://www.youtube.com/channel/UCPZbE2f-LiBaeK9njDgqQmA" target="_blank">🔊 Tutorials</a>: Mainly Videos Tutorials and Presentations</li>
-                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>:Writing about Computer Systems and Embedded Systems</li>
+                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>:Writing about Operating Systems and Embedded Systems</li>
                         <li> <a href="https://leetcode.com/Sheunl/" target="_blank" rel="noopener noreferrer">🔣 LeetCode</a>: Competitive Programming</li>
                     </ol>
                     </div>
