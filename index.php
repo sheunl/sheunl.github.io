@@ -6,7 +6,7 @@
     <!-- main body-->
     <div id="main" class="container-fluid">
         <div class="home_intro">
-            <h3>Hi, I am <a>Sheun</a>. I make Software and Solve Problems.</h3> 
+            <h3>Hi, I am <a>Sheun</a>. I design solutions and solve problems.</h3> 
             
             <hr>
             <div class="row main-menu">
@@ -23,7 +23,7 @@
                     <h4>Learning</h4>
                     <ol class="the-list">
                         <li> <a href="https://www.youtube.com/channel/UCPZbE2f-LiBaeK9njDgqQmA" target="_blank">🔊 Tutorials</a>: Mainly Videos Tutorials and Presentations</li>
-                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>:Writing about Operating Systems and Embedded Systems</li>
+                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>: Writing about Computer Systems and Programming</li>
                         <li> <a href="https://leetcode.com/Sheunl/" target="_blank" rel="noopener noreferrer">🔣 LeetCode</a>: Competitive Programming</li>
                     </ol>
                     </div>
@@ -32,7 +32,7 @@
                         <h4>Interests</h4>
                         <ol class="the-list">
                             <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: A Repository of opensource projects and contributions</li>
-                            <li> <a href="https://www.duolingo.com/profile/sheunl" target="_blank" rel="noopener noreferrer">🌐 Languages:</a> Currently Learning on Duolingo, & Discord</li>
+                            <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🎨 Portfolio:</a> Digital Arts and Design</li>
                         </ol>
                         </div>
         </div>
@@ -44,7 +44,7 @@
             <ul class="text-center home-links" id="contactz">
                 
                 <li>
-                    <a style="cursor: pointer;" id="mail-link" target="_blank">
+                    <a style="cursor: pointer;" href="mailto:me@sheunlawani.com" id="mail-link" target="_blank">
                     <i class="bi bi-envelope"></i>
                     Mail
                     </a>

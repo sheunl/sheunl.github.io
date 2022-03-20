@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="bs/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="bs/css/bootstrap-grid.min.css" type="text/css" />
     
-    <!-- <link rel="shortcut icon" type="image/png" href="http://example.com/favicon.png"/> -->
     <title>Sheun Lawani | Software Engineering & Computer Science</title>
 </head>
 <body id="body-m">
