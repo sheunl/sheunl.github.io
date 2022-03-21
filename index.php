@@ -32,7 +32,7 @@
                         <h4>Interests</h4>
                         <ol class="the-list">
                             <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: A Repository of opensource projects and contributions</li>
-                            <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🎨 Portfolio:</a> Digital Arts and Design</li>
+                            <li> <a href="https://ctftime.org/user/125293" target="_blank" rel="noopener noreferrer">🚩 CTFs</a>: <a href="https://tryhackme.com/p/numine" target="_blank">Websec</a>, <a href="https://tryhackme.com/p/numine" target="_blank">Reversing</a>, <a href="https://cryptohack.org/user/Numine/" target="_blank">Crypto</a> and Others.
                         </ol>
                         </div>
         </div>
