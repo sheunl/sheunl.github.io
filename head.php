@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="bs/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="bs/css/bootstrap-grid.min.css" type="text/css" />
     
-    <title>Sheun Lawani | Software Engineering & Computer Science</title>
+    <title>Sheun Lawani | Software Engineerng, Machine Learning & Data Science</title>
 </head>
 <body id="body-m">
     <nav class="top-menu">

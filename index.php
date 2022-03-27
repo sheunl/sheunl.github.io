@@ -6,7 +6,7 @@
     <!-- main body-->
     <div id="main" class="container-fluid">
         <div class="home_intro">
-            <h3>Hi, I am <a>Sheun</a>. I design solutions and solve problems.</h3> 
+            <h3>Hi, I am <a>Sheun</a>. I create solutions and solve problems using software and data.</h3> 
             
             <hr>
             <div class="row main-menu">
