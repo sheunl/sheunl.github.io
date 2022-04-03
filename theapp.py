@@ -14,3 +14,7 @@ def homepage():
 @app.route('/cv')
 def cvpage():
     return render_template('cv.html', title=None)
+
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0')
