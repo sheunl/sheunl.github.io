@@ -6,7 +6,7 @@
     <!-- main body-->
     <div id="main" class="container-fluid">
         <div class="home_intro">
-            <h3>Hi, I am <a>Sheun</a>. I create solutions and solve problems using software and data.</h3> 
+            <h4>Hi, I am <a>Sheun</a> <br/>I solve problems using software</h4> 
             
             <hr>
             <div class="row main-menu">
@@ -14,7 +14,9 @@
             <h4>Projects</h4>
             <ol class="the-list">
               
-                <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Systems Programming Jobs</li>
+                <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs</li>
+                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: A Repository of opensource projects and contributions</li>
+
                 
             </ol>
             </div>
@@ -31,8 +33,8 @@
                     <div class="column">
                         <h4>Interests</h4>
                         <ol class="the-list">
-                            <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: A Repository of opensource projects and contributions</li>
-                            <li> <a href="https://www.kaggle.com/numine target="_blank" rel="noopener noreferrer">📊 Data Science Competitions</a>: Kaggle and Others.
+                            <li> <a href="https://soundcloud.com/sheunl" target="_blank" rel="noopener noreferrer">🎼 Music</a>: Instrumental & Electronic Music.</li>
+                            <li> <a href="https://www.instagram.com/sheunlawani/" target="_blank" rel="noopener noreferrer">🎨 Art</a>: Digital Art.</li>
                         </ol>
                         </div>
         </div>
