@@ -7,7 +7,7 @@
     <div id="main" class="container-fluid">
         <div class="home_intro">
             <h4>Hi, I am <a>Sheun</a>.<br/>I solve problems using software</h4> 
-            <h5>Currently working in <a>Embedded Software</a> and <a>Web</a></h5>
+            <h5>Currently working in <a>Linux</a> and <a>Web</a> Engineering</h5>
             
             <hr>
             <div class="row main-menu">
