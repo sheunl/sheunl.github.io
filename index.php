@@ -1,12 +1,13 @@
 <?php include('head.php') ?>
-    <!-- header & Menu-->
-    <div class="top-image">
+  <!-- header & Menu-->
+  <div class="top-image">
         <img src="img/pex2.jpeg" alt="" srcset="">
     </div>
     <!-- main body-->
     <div id="main" class="container-fluid">
         <div class="home_intro">
-            <h4>Hi, I am <a>Sheun</a> <br/>I solve problems using software</h4> 
+            <h4>Hi, I am <a>Sheun</a>.<br/>I solve problems using software</h4> 
+            <h5>Currently working in <a>Embedded Software</a> and <a>Web</a></h5>
             
             <hr>
             <div class="row main-menu">
@@ -14,27 +15,26 @@
             <h4>Projects</h4>
             <ol class="the-list">
               
-                <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs</li>
-                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: A Repository of opensource projects and contributions</li>
-
-                
+                <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
+                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
+                            
             </ol>
             </div>
             
                 <div class="column">
                     <h4>Learning</h4>
                     <ol class="the-list">
-                        <li> <a href="https://www.youtube.com/channel/UCPZbE2f-LiBaeK9njDgqQmA" target="_blank">🔊 Tutorials</a>: Mainly Videos Tutorials and Presentations</li>
-                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Blog</a>: Writing about Computer Systems and Programming</li>
-                        <li> <a href="https://leetcode.com/Sheunl/" target="_blank" rel="noopener noreferrer">🔣 LeetCode</a>: Competitive Programming</li>
+                        
+                        <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
+                        <li> <a href="https://www.youtube.com/channel/UCPZbE2f-LiBaeK9njDgqQmA" target="_blank" rel="noopener noreferrer">💡 Videos</a>: On Computer Software & Electronics.</li>
                     </ol>
                     </div>
 
                     <div class="column">
                         <h4>Interests</h4>
                         <ol class="the-list">
-                            <li> <a href="https://soundcloud.com/sheunl" target="_blank" rel="noopener noreferrer">🎼 Music</a>: Instrumental & Electronic Music.</li>
-                            <li> <a href="https://www.instagram.com/sheunlawani/" target="_blank" rel="noopener noreferrer">🎨 Art</a>: Digital Art.</li>
+                            <li> <a href="https://leetcode.com/Sheunl/" target="_blank" rel="noopener noreferrer">🔣 LeetCode</a>: Competitive Programming.</li>
+                            <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Art/Design</a>: Digital Art & Design.</li>
                         </ol>
                         </div>
         </div>
@@ -64,6 +64,12 @@
                     <a href="https://twitter.com/sheuntl" target="_blank"> 
                         <i class="bi bi-github"></i>
                         Github</a></li>
+                    </a>
+                </li><li>&middot;</li>
+                <li>
+                    <a href="https://www.instagram.com/sheunlawani/" target="_blank"> 
+                        <i class="bi bi-instagram"></i>
+                        Instagram</a></li>
                     </a>
                 </li>
             </ul>
