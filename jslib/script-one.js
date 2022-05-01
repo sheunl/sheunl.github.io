@@ -8,3 +8,6 @@ $(document).ready(
     }
 );
 */
+
+$("#head").load('head.html');
+$("#foot").load('foot.html');
