@@ -1,4 +1,4 @@
-{% include 'head.html' %}
+<?php include('head.php') ?>
 
 <!-- header & Menu-->
     <div class="top-image">
@@ -29,7 +29,7 @@
                 <h4>Software</h4>
                 <ol class="the-list">
                     <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
-                    <li> <a href="https://codeforces.com/profile/numine" target="_blank" rel="noopener noreferrer">🔣 Codeforces</a>: Competitive Programming Platform.</li>
+                    <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
                     <li> <a href="https://www.kaggle.com/numine" target="_blank" rel="noopener noreferrer">📊 Kaggle</a>: Data Science Competitions.</li>
                     <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Digital Designs</a>: User Interfaces and Infographics.</li>
                 </ol>
@@ -68,4 +68,4 @@
         </div>
     </div>
 
-{% include 'foot.html' %}
+<?php include('foot.php') ?>

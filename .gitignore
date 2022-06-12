@@ -1,5 +1,1 @@
-__pycache__/
-venvn/
-home/static
-*.sqlite*
-*settings.py
+.DS_Store

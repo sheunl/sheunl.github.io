@@ -1,4 +1,5 @@
-{% include 'head.html' %}
+<?php include('head.php') ?>
+
 <div id="main" class="container-fluid">
 
 <h1 class="title">Curriculum Vitae (CV)</h1>
@@ -61,4 +62,5 @@
 </div>
 
 </div>
-{% include 'foot.html' %}
+
+<?php include('foot.php') ?>
