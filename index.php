@@ -14,7 +14,7 @@
                 <div class="column">
                         <h4 style="text-align: center;">About</h4>
                         <ol class="the-list" style="text-align: center;">
-                            <li>I am currently working on various software projects mostly on Web and Data science. </li>
+                            <li>I am currently working on various software projects mostly on Web & Linux. </li>
                         </ol>
                 </div>
             <div class="column">
@@ -30,8 +30,7 @@
                 <ol class="the-list">
                     <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
                     <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
-                    <li> <a href="https://www.kaggle.com/numine" target="_blank" rel="noopener noreferrer">📊 Kaggle</a>: Data Science Competitions.</li>
-                    <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Digital Designs</a>: User Interfaces and Infographics.</li>
+                    <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Digital Designs</a>: User Interfaces, Illustrations, Designs etc.</li>
                 </ol>
                 </div>
         </div>
