@@ -90,6 +90,16 @@ a:hover { color:brown !important; }
 
 }
 
+@media screen and (max-width: 600px){
+    ul#contactz {
+        flex-direction: column;
+    }
+
+    #dot{
+        display: none;
+    }
+}
+
 
 #textfx{
     text-align: center;

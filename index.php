@@ -21,16 +21,17 @@
             <h4>Projects</h4>
             <ol class="the-list">
                 <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
-                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>            
+                <hr>
+                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
+                <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Digital Designs</a>: User Interfaces, Illustrations, Designs etc.</li>            
             </ol>
             </div>
             <hr>
             <div class="column">
-                <h4>Software</h4>
+                <h4>Research & Learning</h4>
                 <ol class="the-list">
                     <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
                     <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
-                    <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Digital Designs</a>: User Interfaces, Illustrations, Designs etc.</li>
                 </ol>
                 </div>
         </div>
@@ -48,20 +49,35 @@
                     </a>
                     
                 </li>
-                <li>&middot;</li>
+                <li id="dot">&middot;</li>
                 <li>
                     <a href="https://twitter.com/sheuntl" target="_blank"> 
                         <i class="bi bi-twitter"></i>
                         Twitter</a></li>
                     </a>
                 </li>
-                <li>&middot;</li>
+                <li id="dot">&middot;</li>
                 <li>
                     <a href="https://github.com/sheunl" target="_blank"> 
                         <i class="bi bi-github"></i>
                         Github</a></li>
                     </a>
-                </li><li>&middot;</li>
+                </li>
+                <li id="dot">&middot;</li>
+                <li>
+                    <a href="https://stackoverflow.com/users/7276300/oluwasheun" target="_blank"> 
+                     <i class="bi bi-stack-overflow"></i>
+                        StackOverflow</a></li>
+                    </a>
+                </li>
+                <li id="dot">&middot;</li>
+                <li>
+                    <a href="https://codepen.io/sheunl" target="_blank"> 
+                     <i class="bi bi-code-square"></i>
+                        CodePen</a></li>
+                    </a>
+                </li>
+                <li id="dot">&middot;</li>
             </ul>
 
         </div>
