@@ -30,7 +30,7 @@
                 <h4>Research & Learning</h4>
                 <ol class="the-list">
                     <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
-                    <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">♾️ Math Vlog</a>: Videos on math and datascience.</li>
+                    <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">♾️ Math Vlog</a>: Videos on Math and Datascience.</li>
                     <li> <a href="https://www.kaggle.com/numine" target="_blank">📊 Kaggle</a>: Data Science Competitions and Datasets.</li>
                     <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
                 </ol>
