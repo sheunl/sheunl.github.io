@@ -21,9 +21,8 @@
             <h4>Projects</h4>
             <ol class="the-list">
                 <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
-                <hr>
-                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
-                <li> <a href="https://www.behance.net/sheunl/" target="_blank" rel="noopener noreferrer">🎨 Digital Designs</a>: User Interfaces, Illustrations, Designs etc.</li>            
+                
+                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>           
             </ol>
             </div>
             <hr>
@@ -31,8 +30,8 @@
                 <h4>Research & Learning</h4>
                 <ol class="the-list">
                     <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
+                    <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">♾️ Math Vlog</a>: Videos on math and datascience.</li>
                     <li> <a href="https://www.kaggle.com/numine" target="_blank">📊 Kaggle</a>: Data Science Competitions and Datasets.</li>
-                    
                     <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
                 </ol>
                 </div>
