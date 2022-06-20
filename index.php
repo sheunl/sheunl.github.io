@@ -21,7 +21,8 @@
             <h4>Projects</h4>
             <ol class="the-list">
                 <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
-                
+                <hr>
+                <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🎨Digital Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
                 <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>           
             </ol>
             </div>
