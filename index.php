@@ -78,6 +78,13 @@
                     </a>
                 </li>
                 <li id="dot">&middot;</li>
+                <li>
+                    <a href="https://www.linkedin.com/in/oluwasheun-lawani/" target="_blank"> 
+                    <i class="bi bi-linkedin"></i>
+                        Linkedin</a></li>
+                    </a>
+                </li>
+                
             </ul>
 
         </div>
