@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="static/bs/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="static/bs/css/bootstrap-grid.min.css" type="text/css" />
     
-    <title>Sheun Lawani | Web & Linux </title>
+    <title>Sheun Lawani's Homepage</title>
 </head>
 <body id="body-m">
     <nav class="top-menu">

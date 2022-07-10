@@ -6,35 +6,39 @@
     </div>
     <!-- main body-->
     <div id="main" class="container-fluid">
-        <div class="home_intro">
-            <!-- <h4>Hi, I am <a>Sheun</a>.<br/>I solve problems using software. Working on FinTech and EdTech Solutions.</h4>  -->
-            
+        <div class="home_intro">            
             <hr>
             <div class="row main-menu">
                 <div class="column">
-                        <h4 style="text-align: center;">About</h4>
-                        <ol class="the-list" style="text-align: center;">
-                            <li>I am currently working on various software projects mostly on Web & Linux. </li>
+                        <h4 style="text-align: left;">About Me</h4>
+                        <ol class="the-list" style="text-align: left;">
+                            <li>I am a Software Engineer currently working on various software projects mostly on Fullstack Web, Programming Languages & Compilers. My Hobbies are Fine Arts and Making Music.</li>
                         </ol>
                 </div>
+                <hr>
             <div class="column">
             <h4>Projects</h4>
             <ol class="the-list">
-                <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
-                <hr>
-                <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🎨Digital Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
-                <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>           
+            <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
+            <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
             </ol>
             </div>
             <hr>
             <div class="column">
-                <h4>Research & Learning</h4>
+            <h4>Programming & Web</h4>
+            <ol class="the-list">
+                <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
+                <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a> & <a href="https://codeforces.com/profile/numine" target="_blank" rel="noopener noreferrer">CodeForces</a>: Competitive Programming Platforms.</li>           
+            </ol>
+            </div>
+            <hr>
+            <div class="column">
+                <h4>Art & Music</h4>
                 <ol class="the-list">
-                    <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Systems and Programming.</li>
-                    <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">💻 Tech Videos</a>: Videos on Computer Systems and Programming.</li>
-                    <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
+                <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🖌️ Art and Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
+                <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">🎼 Music</a>: Collection on Composed Music and more.</li>    
                 </ol>
-                </div>
+            </div>
         </div>
 
 
@@ -72,13 +76,7 @@
                     </a>
                 </li>
                 <li id="dot">&middot;</li>
-                <li>
-                    <a href="https://codepen.io/sheunl" target="_blank"> 
-                     <i class="bi bi-code-square"></i>
-                        CodePen</a></li>
-                    </a>
-                </li>
-                <li id="dot">&middot;</li>
+                
                 <li>
                     <a href="https://www.linkedin.com/in/oluwasheun-lawani/" target="_blank"> 
                     <i class="bi bi-linkedin"></i>

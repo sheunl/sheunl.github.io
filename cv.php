@@ -57,7 +57,7 @@
     </div>
     <div class="cv-section">
         <h3><u>Personal Interests</u></h3>
-        <p>Chess, Languages</p>
+        <p>Music, Fine Arts, Writing, Languages</p>
     </div>
 </div>
 
