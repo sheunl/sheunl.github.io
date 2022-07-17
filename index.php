@@ -20,7 +20,7 @@
             <h4>Projects</h4>
             <ol class="the-list">
             <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
-            <li> <a href="https://remotetaskng.com/" target="_blank" rel="noopener noreferrer">🏢 RemoteTaskNG</a>: A Job Board for Programming Jobs.</li>
+            <li> <a href="https://remotetask.octobit.xyz" target="_blank" rel="noopener noreferrer">🏢 RemoteTask.Octobit</a>: A Automated Job Board for Programming Jobs.</li>
             </ol>
             </div>
             <hr>
@@ -28,7 +28,7 @@
             <h4>Programming & Web</h4>
             <ol class="the-list">
                 <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
-                <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a> & <a href="https://codeforces.com/profile/numine" target="_blank" rel="noopener noreferrer">CodeForces</a>: Competitive Programming Platforms.</li>           
+                <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>           
             </ol>
             </div>
             <hr>
