@@ -12,7 +12,7 @@
                 <div class="column">
                         <h4 style="text-align: left;">About Me</h4>
                         <ol class="the-list" style="text-align: left;">
-                            <li>I am a Software Engineer currently working on various software projects mostly on Fullstack Web, Programming Languages & Compilers. My Hobbies are Fine Arts and Making Music.</li>
+                            <li>I am a Software Engineer currently working on various software projects mostly on Fullstack Web, & Embedded Systems. I also make Fine Arts and Music.</li>
                         </ol>
                 </div>
                 <hr>
