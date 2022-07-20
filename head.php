@@ -17,9 +17,4 @@
     <title>Sheun Lawani's Homepage</title>
 </head>
 <body id="body-m">
-    <nav class="top-menu">
-        <ul class="top-menu-item">
-            <a href="/"><li>Home</li></a>
-            <a href="/cv.php"><li>CV</li></a>
-        </ul>
-    </nav>
+   
