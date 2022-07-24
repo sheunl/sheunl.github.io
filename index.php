@@ -12,7 +12,7 @@
                 <div class="column">
                         <h4 style="text-align: left;">About Me</h4>
                         <ol class="the-list" style="text-align: left;">
-                            <li>I am a Software Engineer currently working on various software projects mostly on Fullstack Web, & Embedded Systems. I also make Fine Arts and Music.</li>
+                            <li>I am a Software Engineer currently working on various software projects mostly on Fullstack Web, & Embedded Systems. I also write and review books.</li>
                         </ol>
                 </div>
                 <hr>
@@ -28,15 +28,16 @@
             <h4>Programming & Web</h4>
             <ol class="the-list">
                 <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
-                <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>           
+                <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
+                <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🖌️ UI Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
+           
             </ol>
             </div>
             <hr>
             <div class="column">
-                <h4>Art & Music</h4>
+                <h4>Writing</h4>
                 <ol class="the-list">
-                <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🖌️ Art and Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
-                <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">🎼 Music</a>: Collection on Composed Music and more.</li>    
+                <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">📖 Youtube</a>: Review of books mostly on business and finance.</li>    
                 </ol>
             </div>
         </div>
