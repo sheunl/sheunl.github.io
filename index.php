@@ -12,7 +12,7 @@
                 <div class="column">
                         <h4 style="text-align: left;">About Me</h4>
                         <ol class="the-list" style="text-align: left;">
-                            <li>I am a Software Engineer currently working on various software projects mostly on Fullstack Web, & Embedded Systems. I also write and review books.</li>
+                            <li>I am a Software Engineer currently working on various software projects. I also write and review books.</li>
                         </ol>
                 </div>
                 <hr>
@@ -20,7 +20,7 @@
             <h4>Projects</h4>
             <ol class="the-list">
             <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
-            <li> <a href="https://remotetask.octobit.xyz" target="_blank" rel="noopener noreferrer">🏢 RemoteTask.Octobit</a>: A Automated Job Board for Programming Jobs.</li>
+            <li> <a href="https://www.octobit.xyz/" target="_blank" rel="noopener noreferrer">🏢 Octobit.xyz</a>: Web & computer graphics solutions.</li>
             </ol>
             </div>
             <hr>
