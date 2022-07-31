@@ -12,7 +12,7 @@
                 <div class="column">
                         <h4 style="text-align: left;">About Me</h4>
                         <ol class="the-list" style="text-align: left;">
-                            <li>I am a Software Engineer currently working on various software projects. I also write and review books.</li>
+                            <li>I am a Software Engineer currently working on various software projects. I also write on various topics.</li>
                         </ol>
                 </div>
                 <hr>
@@ -33,13 +33,7 @@
            
             </ol>
             </div>
-            <hr>
-            <div class="column">
-                <h4>Writing</h4>
-                <ol class="the-list">
-                <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank">📖 Youtube</a>: Review of books mostly on business and finance.</li>    
-                </ol>
-            </div>
+         
         </div>
 
 
@@ -71,9 +65,9 @@
                 </li>
                 <li id="dot">&middot;</li>
                 <li>
-                    <a href="https://stackoverflow.com/users/7276300/oluwasheun" target="_blank"> 
-                     <i class="bi bi-stack-overflow"></i>
-                        StackOverflow</a></li>
+                    <a href="https://www.instagram.com/sheunlawani/" target="_blank"> 
+                     <i class="bi bi-instagram"></i>
+                        Instagram</a></li>
                     </a>
                 </li>
                 <li id="dot">&middot;</li>
