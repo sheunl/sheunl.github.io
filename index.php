@@ -30,7 +30,7 @@
                 <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
                 <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
                 <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🖌️ UI Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
-           
+                <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank" rel="noopener noreferrer">🎬 Videos</a>: Tech Youtube Videos.</li>
             </ol>
             </div>
          
