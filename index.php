@@ -17,7 +17,7 @@
                 </div>
                 <hr>
             <div class="column">
-            <h4>Projects</h4>
+            <h4>Projects & Products</h4>
             <ol class="the-list">
             <li> <a href="https://github.com/sheunl" target="_blank">🧰 Open Source</a>: Opensource projects and contributions.</li>
             <li> <a href="https://www.octobit.xyz/" target="_blank" rel="noopener noreferrer">🏢 Octobit.xyz</a>: Web & computer graphics solutions.</li>
@@ -25,11 +25,10 @@
             </div>
             <hr>
             <div class="column">
-            <h4>Programming & Web</h4>
+            <h4>Learning & Research</h4>
             <ol class="the-list">
                 <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
                 <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
-                <li> <a href="https://www.behance.net/sheunl" target="_blank" rel="noopener noreferrer">🖌️ UI Designs</a>: UI, Illustrations & Calligraphy Design Portfolio.</li>
                 <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank" rel="noopener noreferrer">🎬 Videos</a>: Tech Youtube Videos.</li>
             </ol>
             </div>
@@ -79,6 +78,12 @@
                     </a>
                 </li>
                 
+                <li>
+                    <a href="https://www.behance.net/sheunl" target="_blank"> 
+                    <i class="bi bi-behance"></i>
+                        Behance</a></li>
+                    </a>
+                </li>
             </ul>
 
         </div>
