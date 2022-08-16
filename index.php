@@ -12,7 +12,7 @@
                 <div class="column">
                         <h4 style="text-align: left;">About Me</h4>
                         <ol class="the-list" style="text-align: left;">
-                            <li>I am a Software Engineer currently working on various software projects. I also write on various topics.</li>
+                            <li>I am a Software Engineer currently working on various software projects. Always researching and learning.</li>
                         </ol>
                 </div>
                 <hr>
