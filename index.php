@@ -26,7 +26,7 @@
             <div class="column">
             <h4>Learning & Research</h4>
             <ol class="the-list">
-                <li> <a href="http://blog.sheunlawani.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
+                <li> <a href="http://blog.zaqlabs.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
                 <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
                 <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank" rel="noopener noreferrer">🎬 Videos</a>: Tech Youtube Videos.</li>
                 <li> <a href="https://www.kaggle.com/numine" target="_blank" rel="noopener noreferrer">📊 Kaggle</a>: Data Science Platform.</li>
