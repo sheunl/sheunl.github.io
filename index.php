@@ -12,7 +12,7 @@
                 <div class="column">
                         <h4 style="text-align: left;">About Me</h4>
                         <ol class="the-list" style="text-align: left;">
-                            <li>I am a Software Engineer currently working on various software projects. Always researching and learning.</li>
+                            <li>Hi, I am <b>Abdulrasaq Lawani</b>, I am currently working on various software projects. </li>
                         </ol>
                 </div>
                 <hr>
@@ -29,8 +29,6 @@
                 <li> <a href="http://blog.zaqlabs.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
                 <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
                 <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank" rel="noopener noreferrer">🎬 Videos</a>: Tech Youtube Videos.</li>
-                <li> <a href="https://www.kaggle.com/numine" target="_blank" rel="noopener noreferrer">📊 Kaggle</a>: Data Science Platform.</li>
-
             </ol>
             </div>
          
@@ -68,14 +66,6 @@
                     <a href="https://stackoverflow.com/users/7276300/oluwasheun" target="_blank"> 
                      <i class="bi bi-stack-overflow"></i>
                      Stackoverflow</a></li>
-                    </a>
-                </li>
-                <li id="dot">&middot;</li>
-                
-                <li>
-                    <a href="https://www.linkedin.com/in/oluwasheun-lawani/" target="_blank"> 
-                    <i class="bi bi-linkedin"></i>
-                        Linkedin</a></li>
                     </a>
                 </li>
                 <li id="dot">&middot;</li>
