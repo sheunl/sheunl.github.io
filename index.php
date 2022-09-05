@@ -26,9 +26,10 @@
             <div class="column">
             <h4>Learning & Research</h4>
             <ol class="the-list">
-                <li> <a href="http://blog.zaqlabs.com/" target="_blank">📝 Tech Blog</a>: Writing about Computer Programming and Web.</li>              
-                <li> <a href="https://www.codewars.com/users/sheunl" target="_blank" rel="noopener noreferrer">🔣 CodeWars</a>: Competitive Programming Platform.</li>
+                <li> <a href="http://blog.zaqlabs.com/" target="_blank">📝 Tech Blog</a>: Writing about Software & Computer Science.</li>              
                 <li> <a href="https://www.youtube.com/channel/UC2R-xnnjQaSr3wm-89JoXqg" target="_blank" rel="noopener noreferrer">🎬 Videos</a>: Tech Youtube Videos.</li>
+                <li> <a href="https://www.instagram.com/sheunlawani/" target="_blank" rel="noopener noreferrer">🧩 Design</a>: UI and Design.</li>
+                
             </ol>
             </div>
          
@@ -39,15 +40,6 @@
             <hr>
             <h3 class="text-center">Contact</h3>
             <ul class="text-center home-links" id="contactz">
-                
-                <li>
-                    <a style="cursor: pointer;" href="mailto:me@sheunlawani.com" id="mail-link" target="_blank">
-                    <i class="bi bi-envelope"></i>
-                    Mail
-                    </a>
-                    
-                </li>
-                <li id="dot">&middot;</li>
                 <li>
                     <a href="https://twitter.com/sheuntl" target="_blank"> 
                         <i class="bi bi-twitter"></i>
@@ -66,13 +58,6 @@
                     <a href="https://stackoverflow.com/users/7276300/oluwasheun" target="_blank"> 
                      <i class="bi bi-stack-overflow"></i>
                      Stackoverflow</a></li>
-                    </a>
-                </li>
-                <li id="dot">&middot;</li>
-                <li>
-                    <a href="https://www.behance.net/sheunl" target="_blank"> 
-                    <i class="bi bi-behance"></i>
-                        Behance</a></li>
                     </a>
                 </li>
             </ul>
