@@ -90,6 +90,16 @@ a:hover { color:brown !important; }
 
 }
 
+@media screen and (max-width: 600px){
+    ul#contactz {
+        flex-direction: column;
+    }
+
+    #dot{
+        display: none;
+    }
+}
+
 
 #textfx{
     text-align: center;
@@ -104,7 +114,7 @@ a:hover { color:brown !important; }
 
 footer{
     width: 100%;
-    background-color: #777;
+    background-color: #eee;
     font-size: 20px;
     height: 130px;
     align-items: center;
@@ -113,6 +123,7 @@ footer{
     justify-content: center;
     color: white;
     flex-direction: column;
+   
 }
 
 .product {
@@ -263,7 +274,7 @@ ol.the-list {
 }
 
 .top-image img {
-    border-radius: 100%;
+    border-radius: 20%;
     width: 100%;
 }
 
@@ -313,6 +324,8 @@ ol.the-list {
 
 .top-menu {
     background-color: crimson;
+    background: rgb(237,20,61);
+background: radial-gradient(circle, rgba(237,20,61,1) 35%, rgba(33,37,41,1) 100%);
   }
 
   .top-menu-item {
@@ -327,5 +340,13 @@ ol.the-list {
       }
   
     .top-menu-item a:hover li{
-        color: #222;
+        color: #e1e1e1;
       }
+
+      .note span{
+        background-color: #ffffffa3;
+        border-radius: 150%;
+        padding: 1px 4px;
+      }
+
+      .note { color: black;}
