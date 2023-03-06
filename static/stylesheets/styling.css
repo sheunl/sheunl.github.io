@@ -211,7 +211,7 @@ p.social-h {
     list-style: none;
     padding-left: 0px;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 
