@@ -98,6 +98,14 @@ a:hover { color:brown !important; }
     #dot{
         display: none;
     }
+
+    div#top-menu {
+        flex-flow: column;
+    }
+    div#top-menu > div{
+        text-align: center;
+    }
+
 }
 
 
@@ -335,19 +343,32 @@ background: radial-gradient(circle, rgba(237,20,61,1) 35%, rgba(33,37,41,1) 100%
   }
 
   
-    .top-menu-item li {
-        color: #fff;
-        margin-right: 10px;
-      }
-  
-    .top-menu-item a:hover li{
-        color: #e1e1e1;
-      }
+.top-menu-item li {
+    color: #fff;
+    margin-right: 10px;
+    }
 
-      .note span{
-        background-color: #ffffffa3;
-        border-radius: 150%;
-        padding: 1px 4px;
-      }
+.top-menu-item a:hover li{
+    color: #e1e1e1;
+    }
 
-      .note { color: black;}
+.note span{
+background-color: #ffffffa3;
+border-radius: 150%;
+padding: 1px 4px;
+}
+
+.note { color: black;}
+
+#top-menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+ol.the-list.banner {
+    margin: 0;
+    color: white;
+    background: rgb(238,238,238);
+    background: radial-gradient(circle, rgba(220,20,60,.7) 0%, rgba(220,20,60,0.4) 100%);
+    margin-top: -15px;
+}
