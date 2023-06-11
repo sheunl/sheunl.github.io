@@ -1,0 +1,67 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    color: white;
+    background-color: #333;   
+    background-image:  linear-gradient(#dddddd15 1px, transparent 1px), linear-gradient(to right, #dddddd15 1px, #333 1px);
+    background-size: 20px 20px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    text-decoration: dashed;
+}
+
+#navmenu{
+    display: flex;
+    font-size: 20px;
+    padding: 5px 0px;
+    align-items: center;
+}
+
+#navmenu > div {
+    margin-right:  10px;
+}
+
+#banner-bg{
+    background-color: #333;
+    padding: 20px 0px;
+}
+
+.banner{
+    font-size:100px;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 84%, rgba(252,176,69,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align:center;
+    word-wrap: break-word;
+    font-weight: 300;
+    line-height: 90px;
+    padding: 20px 0px;
+}
+
+.projects-action-div{
+    text-align:center;
+}
+
+.projects-action{
+    background-color: #ffffff00;
+    border: 1px solid white;
+    color: white;
+    padding: 5px 10px;
+    font-size: 30px;
+    transition: box-shadow .25s linear .01s;
+}
+
+button.projects-action:hover {
+    box-shadow: 5px 6px 0px #ffa630;
+}
+
+.logo {
+    max-width: 50px;
+}
