@@ -1,5 +1,6 @@
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
 }
 
 body{
@@ -142,12 +143,13 @@ div#contact p {
     margin-top: 0px;
 }
 
-form#contact-form input, form#contact-form textarea {
+form#contact-form input, form#contact-form textarea, form#contact-form input[type=text] {
     padding: 10px;
     margin: 10px 0px;
     width: 50%;
     background-color: #333;
     border: 1px solid white;
+    color: white;
 }
 
 ul#contactz {
@@ -176,3 +178,62 @@ button.form-action:hover{
     background-color: #ffa630;
     color: #333;
 }
+
+div#resp-ham {
+    display: none;
+    cursor: pointer;
+}
+
+#navmenu .content > a {
+    margin-right: 20px;
+}
+
+#navmenu .content {
+    display: flex;
+}
+
+.show-menu{
+    display: flex !important;
+}
+
+.hide-menu{
+    display: none;
+}
+
+@media screen and (min-width: 500px) {
+    div#resp-ham {
+        display: none;
+    }
+
+    #navmenu .content{
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    div#resp-ham {
+        display: block;
+    }
+
+    #navmenu .content{
+        display: none;
+    }
+
+    #navmenu .content {
+        display: none;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        position: absolute;
+        box-sizing: border-box;
+        top: 70px;
+        width: 96%;
+        background-color: #333;
+        padding: 10px;
+        border: 1px solid white;
+    }
+
+    #navmenu .content >*{
+        margin-bottom: 10px;
+    }
+  }
