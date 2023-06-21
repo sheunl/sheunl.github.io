@@ -237,3 +237,52 @@ div#resp-ham {
         margin-bottom: 10px;
     }
   }
+
+  div#main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0px 20px;
+}
+
+.tools-list li {
+    border: 1px solid #ffa630;
+    border-radius: 2px;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+
+ol.tools-list.center.h-lists {
+    margin-top: 10px;
+}
+
+.a-card {
+    width: 250px;
+    margin-right: 15px;
+    background-color: #333;
+}
+
+.a-card p, .a-card h3 {
+    margin: 2px;
+    text-align: left;
+}
+
+.project-cards {
+    display: flex;
+}
+
+.a-card p {
+    font-size: 15px;
+}
+
+@media screen and (max-width: 700px) {
+    .project-cards {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .a-card {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+}
