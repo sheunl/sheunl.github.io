@@ -3,9 +3,9 @@
         
         <div id="banner-bg">
             <div class="banner">
-                Welcome to Zaqlabs
+            Hi there!
             </div>
-            <div class="banner-text">Hi there! I am Abdul, I build software to solve problems for businesses and developers. You can find some of my work on this website and the links provided.</div>
+            <div class="banner-text"> I am Abdulrasaq. I am a software developer. You can find some of my work on this website and the links provided. </div>
             <div class="projects-action-div">
                 <a href="/projects">
                 <button class="projects-action">Projects</button>
@@ -22,6 +22,8 @@
                 <li>WordPress</li>
                 <li>PHP</li>
                 <li>Vue</li>
+                <li>AlpineJS</li>
+                <li>Javascript</li>
                 <li>Linux</li>
             </ol>
         </div>

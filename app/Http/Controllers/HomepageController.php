@@ -8,12 +8,12 @@ use Illuminate\View\View;
 class HomepageController extends Controller
 {   
     private $project_info =[
-        ['wordpress.svg','Test 1','hdhdj fjdjdjfdmdvdk',['kdjfjfj'=>'344']],
-        ['www.svg','Test 1','hdhdj fjdjdjfdmdvdk',['kdjfjfj'=>'664','dgfefdfv'=>'774']]
+        ['pypi-seeklogo.com.svg','Data Factory','Python App for generating data ',['Link'=>'https://pypi.org/project/dfac/']],
+        ['simplex.png','Simplex','Static Content Management System',['Link'=>'https://packagist.org/packages/zaqlabs/simplex']]
     ];
 
     public function index(){
-        return view('home', ['p'=>array_slice($this->project_info, 1)]);
+        return view('home', ['p'=>array_slice($this->project_info, 0, 3)]);
     }
 
     public function projects(){
