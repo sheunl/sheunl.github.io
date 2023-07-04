@@ -18,13 +18,14 @@
                 PLATFORMS & TOOLS
             </h2>
             <ol class="tools-list center h-lists">
+                <li>PHP</li>
+                <li>C</li>
                 <li>Laravel</li>
                 <li>WordPress</li>
-                <li>PHP</li>
-                <li>Vue</li>
+                <li>Tailwind</li>
                 <li>AlpineJS</li>
                 <li>Javascript</li>
-                <li>Linux</li>
+                <li>Livewire</li>
             </ol>
         </div>
 
@@ -70,6 +71,8 @@
                 <li id="dot">·</li>
                 <li><a href="https://github.com/sheunl" target="_blank"><i class="fa-brands fa-github"></i></a></li>
                 <li id="dot">·</li>
+                <li><a href="https://stackoverflow.com/users/7276300/abdulrasaq" target="_blank"><i class="fa-brands fa-stack-overflow"></i></a></li>
+                <li id="dot">&nbsp;</li>
                 <li><a href="https://www.linkedin.com/in/ao-lawani/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                 <li id="dot">·</li>
                 <li><a href="https://www.instagram.com/zaqlabs/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>

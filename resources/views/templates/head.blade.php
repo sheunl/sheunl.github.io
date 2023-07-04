@@ -40,9 +40,6 @@
                     <a href="https://blog.zaqlabs.com/" target="_blank">
                         Blog
                     </a>
-                    <a href="https://www.youtube.com/@zaql" target="_blank">
-                        Videos
-                    </a>
                     <a href="/projects">
                         Projects
                     </a>
@@ -51,6 +48,8 @@
                         <li><a href="https://twitter.com/zaqtl" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
                         <li id="dot">&nbsp;</li>
                         <li><a href="https://github.com/sheunl" target="_blank"><i class="fa-brands fa-github"></i></a></li>
+                        <li id="dot">&nbsp;</li>
+                        <li><a href="https://stackoverflow.com/users/7276300/abdulrasaq" target="_blank"><i class="fa-brands fa-stack-overflow"></i></a></li>
                         <li id="dot">&nbsp;</li>
                         <li><a href="https://www.linkedin.com/in/ao-lawani/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                         <li id="dot">&nbsp;</li>
