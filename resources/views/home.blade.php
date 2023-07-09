@@ -71,8 +71,6 @@
                 <li id="dot">·</li>
                 <li><a href="https://github.com/sheunl" target="_blank"><i class="fa-brands fa-github"></i></a></li>
                 <li id="dot">·</li>
-                <li><a href="https://stackoverflow.com/users/7276300/abdulrasaq" target="_blank"><i class="fa-brands fa-stack-overflow"></i></a></li>
-                <li id="dot">&nbsp;</li>
                 <li><a href="https://www.linkedin.com/in/ao-lawani/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                 <li id="dot">·</li>
                 <li><a href="https://www.instagram.com/zaqlabs/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
