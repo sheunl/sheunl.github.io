@@ -1,7 +1,7 @@
 
 </div>
 <footer class="center">
-        &copy; Zaqlabs
+        &copy; {{date('Y', strtotime('now'))}} Zaqlabs
     </footer>
 
 

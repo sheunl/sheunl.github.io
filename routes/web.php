@@ -14,6 +14,3 @@ use App\Http\Controllers\HomepageController;
 */
 
 Route::get('/', [HomepageController::class,'index']);
-
-
-Route::get('/projects', [HomepageController::class,'projects']);

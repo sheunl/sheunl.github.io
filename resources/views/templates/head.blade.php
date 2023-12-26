@@ -33,29 +33,22 @@
 <nav id="navmenu">
                 <div class="logo">
                     <a href="/">
-                    <img src="/static/images/Zaqlabs_logo_s.png" alt="" srcset="" width="100%">
+                    Zaqlabs
                     </a>
                 </div>
                 <div class="content">
-                    <a href="/projects">
+                    <a href="#projects">
                         Projects
                     </a>
                     <a href="https://blog.zaqlabs.com/" target="_blank">
                         Blog
                     </a>
-                    <a href="https://www.youtube.com/@zaql" target="_blank">
-                        Videos
+                    <a href="https://github.com/sheunl" target="_blank">
+                        Code
                     </a>
-
-                    <ul class="center contact-list h-lists nav-contact" id="contactz">
-                        <li><a href="https://twitter.com/zaqtl" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
-                        <li id="dot">&nbsp;</li>
-                        <li><a href="https://github.com/sheunl" target="_blank"><i class="fa-brands fa-github"></i></a></li>
-                        <li id="dot">&nbsp;</li>
-                        <li><a href="https://www.linkedin.com/in/ao-lawani/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
-                        <li id="dot">&nbsp;</li>
-                        <li><a href="https://www.instagram.com/zaqlabs/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                    </ul>
+                    <a href="#contact">
+                        Contacts
+                    </a>
                 </div>
 
                 <div id="resp-ham">
