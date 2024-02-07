@@ -1,37 +1,46 @@
-@include('templates.head')
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Zaqlabs</title>
+    <style>
+        body{
+            background-color: whitesmoke;
+        }
         
-        <div id="banner-bg">
-            <div class="banner-text section">
-                <h2>
-                    ABOUT
-                </h2>
-                Hi, there! I am Abdulrasaq. I am a software developer. You can find some of my work on this website and the links provided. 
-            </div>
+        #logo{
+            margin: auto;
+            text-align: center;
+            margin-top: 2%;
+        }
+        .text{
+            color: #76b6c4;
+            text-align: center;
+            font-size: 50px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            width: 100%;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="main">
+        <div id="logo">
+            <svg fill="#76b6c4" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="300px" height="300px" viewBox="0 0 492.5 492.5" xml:space="preserve"
+                >
+            <g>
+                <path d="M184.646,0v21.72H99.704v433.358h31.403V53.123h53.539V492.5l208.15-37.422v-61.235V37.5L184.646,0z M222.938,263.129
+                    c-6.997,0-12.67-7.381-12.67-16.486c0-9.104,5.673-16.485,12.67-16.485s12.67,7.381,12.67,16.485
+                    C235.608,255.748,229.935,263.129,222.938,263.129z"/>
+            </g>
+            </svg>
         </div>
-
-
-        @include('templates.projects')
-
-
-
-        <div class="section " id="contact">
-            <h2>
-                CONTACT
-            </h2>
-           
-            <ul class="center contact-list h-lists" id="contactz">
-                <li><a href="https://mailhide.io/e/CMWFFp3m" target="_blank">Email</a></li>
-                <li id="dot">·</li>
-                <li><a href="https://twitter.com/zaqtl" target="_blank">Twitter</a></li>
-                <li id="dot">·</li>
-                <li><a href="https://github.com/sheunl" target="_blank">Github</a></li>
-                <li id="dot">·</li>
-                <li><a href="https://www.linkedin.com/in/ao-lawani/" target="_blank">LinkedIn</a></li>
-                <li id="dot">·</li>
-                <li><a href="https://www.threads.net/@zaqlabs" target="_blank">Threads</a></li>
-            </ul>
-        </div>
-    
-
-@include('templates.foot')
+    </div>
+    <div class="text">
+        Welcome to Zaqlabs, stay tuned for amazing products.
+    </div>
+</body>
+</html>
