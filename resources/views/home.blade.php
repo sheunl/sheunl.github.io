@@ -9,7 +9,7 @@
         body{
             background-color: whitesmoke;
         }
-        
+
         #logo{
             margin: auto;
             text-align: center;
@@ -22,6 +22,17 @@
             font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             width: 100%;
         }
+
+        .small-text{
+            color: #76b6c4;
+            text-align: center;
+            font-size: 25px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            width: 100%;
+        }
+
+        .small-text a { color: #0d8aa7;}
+
 
     </style>
 </head>
@@ -41,6 +52,9 @@
     </div>
     <div class="text">
         Welcome to Zaqlabs, stay tuned for amazing products.
+    </div>
+    <div class="small-text">
+        For inquires and messages: <a href="https://mailhide.io/e/CMWFFp3m" target="_blank">E-Mail</a>
     </div>
 </body>
 </html>
