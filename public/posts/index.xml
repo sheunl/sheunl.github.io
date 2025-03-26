@@ -1,0 +1,11 @@
+<rss version="2.0">
+    <channel>
+        <title>Posts on Site Title</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Site Title</description>
+
+         
+            
+        
+    </channel>
+</rss>

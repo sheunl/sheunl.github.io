@@ -1,0 +1,8 @@
+<span class="social-profile">
+    <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer" class="social-link">
+        {{ if .Get "icon" }}
+        <i class="fab fa-{{ .Get "icon" }}"></i>
+        {{ end }}
+        <span>{{ .Get "name" }}</span>
+    </a>
+</span>

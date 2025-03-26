@@ -1,0 +1,38 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "Rasaq Lawani"
+  params:
+    description: "Software & Infrastructure"
+    ### accessibility ###
+    accessibility:
+     # skip_text: "Skip to content"
+     # help_text: "Accessibility Statement"
+    ### calls to action ###
+   
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
+    - identifier: "projects"
+      name: "Projects"
+      url: "#projects"
+      weight: 1
+    - identifier: "blog"
+      name: "Blog"
+      url: "https://blog.aolawani.com"
+      weight: 3
+    - identifier: "videos"
+      name: "Videos"
+      url: "https://www.youtube.com/@zaql"
+      weight: 3
+    - identifier: "code"
+      name: "Code"
+      url: "https://github.com/sheunl"
+      weight: 4
+  

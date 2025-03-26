@@ -1,0 +1,44 @@
+######################## custom scripts & styles ####################
+
+# Add custom assets relative to /static or via https
+logo_on_white: "/img/logo-b.svg"
+logo_on_black: "/img/logo-w.svg"
+custom_js: []
+custom_css: ["css/custom.css"]
+
+
+######################## custom config ####################
+
+### default social share image (can also be set per lang) ###
+images: ["/img/social-share.png"]
+
+github:
+  repo_url: "https://github.com/username/repo/blob/master"
+  show_edit_link: true
+
+social_links:
+  devstats: ""
+  discord: ""
+  facebook: ""
+  flickr: ""
+  github: "https://github.com/sheunl"
+  instagram: "https://www.instagram.com/aolawani/"
+  landscape: ""
+  linkedin: "https://www.linkedin.com/in/ao-lawani/"
+  mastodon: "https://mastodon.social/@aolawani"
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: ""
+  x: "https://x.com/zaqtl"
+  youtube: "https://www.youtube.com/@zaql"
+  bluesky: "https://bsky.app/profile/zaql.bsky.social"
+
+# Makes the header sticky on tall screens
+sticky_header: true
+# Enable search in header UI
+show_search: false
+
+
