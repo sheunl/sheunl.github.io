@@ -439,6 +439,7 @@ h3,
 .h3 {
   font-family: var(--rounded-font-family);
   color: var(--primary-400);
+  text-decoration: underline;
   font-size: 20px;
   line-height: 150%;
   text-transform: none;

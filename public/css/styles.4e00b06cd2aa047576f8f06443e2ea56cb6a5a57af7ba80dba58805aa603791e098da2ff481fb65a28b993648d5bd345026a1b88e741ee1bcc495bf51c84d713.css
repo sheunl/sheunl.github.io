@@ -426,6 +426,7 @@ h2,
   font-weight: 700;
   color: var(--primary-400);
   text-transform: uppercase;
+  text-decoration: underline;
   line-height: 120%;
   font-size: 34px;
   margin-block-start: 50px;

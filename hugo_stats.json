@@ -5,6 +5,7 @@
       "article",
       "blockquote",
       "body",
+      "br",
       "button",
       "code",
       "del",
@@ -148,8 +149,7 @@
       "h6-heading",
       "header-as-a-link",
       "horizontal-rule",
-      "hpc-linux",
-      "i-am-a-software-engineer-and-contributor-to-open-source-i-am-currently-working-on-ai-web--infrastructure",
+      "i-am-a-software-engineer-and-open-source-developer-i-am-currently-working-on-ai-web--infrastructure",
       "iframe",
       "images",
       "links",
@@ -157,6 +157,7 @@
       "lists",
       "longer-content-table-using-shortcode",
       "old-projects",
+      "open-source-linux",
       "our-special-feature",
       "projects",
       "rasaq-lawani",
@@ -167,7 +168,8 @@
       "tweets",
       "vimeo-standard-hugo-shortcode-not-recommended",
       "youtube-enhanced-with-playlists-shortcode",
-      "youtube-standard-hugo-shortcode-not-recommended"
+      "youtube-standard-hugo-shortcode-not-recommended",
+      "zaq-labs"
     ]
   }
 }
