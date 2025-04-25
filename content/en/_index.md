@@ -4,7 +4,7 @@ description: This is my personal homepage.
 showHeader: false
 hideBlog: true
 ---
-##  Rasaq Lawani 
+##  Abdulrasaq Lawani 
 
 #### I am a software engineer and Open Source developer. I am currently working on AI, Web & Infrastructure.
 
@@ -32,8 +32,8 @@ Data and AI solutions for businesses. <br>
 {{< /card >}}
 
 {{< card >}}
-#### Open Source Linux
-Resources and Open source software for Operating Systems. <br>
+#### Open Source Development
+Open source software and resources. <br>
 [Code](https://github.com/sheunl) | [Tutorials](https://www.youtube.com/@zaql)
 {{< /card >}}
 

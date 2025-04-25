@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.aolawani.com/categories/</loc>
+    <loc>http://localhost:39249/categories/</loc>
   </url><url>
-    <loc>http://www.aolawani.com/my-first-postz/</loc>
+    <loc>http://localhost:39249/my-first-postz/</loc>
   </url><url>
-    <loc>http://www.aolawani.com/</loc>
+    <loc>http://localhost:39249/</loc>
   </url><url>
-    <loc>http://www.aolawani.com/tags/</loc>
+    <loc>http://localhost:39249/tags/</loc>
   </url>
 </urlset>
