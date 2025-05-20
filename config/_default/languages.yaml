@@ -31,4 +31,8 @@ en:
       name: "Code"
       url: "https://github.com/sheunl"
       weight: 4
+    - identifier: "blog"
+      name: "Blog"
+      url: "https://blog.aolawani.com/"
+      weight: 5
   

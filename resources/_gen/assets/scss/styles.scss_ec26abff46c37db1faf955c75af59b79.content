@@ -438,7 +438,6 @@ h2,
 h3,
 .h3 {
   font-family: var(--rounded-font-family);
-  color: var(--primary-400);
   font-size: 20px;
   line-height: 150%;
   text-transform: none;
@@ -451,6 +450,7 @@ h3,
 h4,
 .h4 {
   font-family: var(--rounded-font-family);
+  font-weight: 900;
   font-size: 16px;
   line-height: 150%;
   text-transform: uppercase;
